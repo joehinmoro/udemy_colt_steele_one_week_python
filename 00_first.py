@@ -1,0 +1,12 @@
+random = "uu\ng"
+random.upper().strip()
+print(random)
+
+
+print(random)
+
+
+if random == "uu\ng":
+    print(1)
+    print(1)
+    print(1)
