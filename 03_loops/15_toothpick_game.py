@@ -3,7 +3,7 @@ from random import randint
 # initializations
 
 # welcome message
-print("\nWelcome to the Toothpick Game.\nPlayers will take turn picking out toothpicks\nuntil none is left.\nThe player who pick the last toothpick wins.\n")
+print("\nWelcome to the Toothpick Game.\nPlayers will take turns picking out toothpicks\nuntil none is left.\nThe player who pick the last toothpick wins.\n")
 # number of toothpicks
 while True:
     try:
