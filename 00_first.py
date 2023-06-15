@@ -4,6 +4,7 @@ print(random)
 
 
 print(random)
+_first = 2
 
 
 if random == "uu\ng":
